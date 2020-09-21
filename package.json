@@ -1,0 +1,24 @@
+{
+  "name": "dashboard.gate-cms",
+  "version": "1.0.0",
+  "description": "Test automation of dashboard.gate - Selenium",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyingSatyr/dashboard.gate-cms.git"
+  },
+  "author": "Boris Grabovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyingSatyr/dashboard.gate-cms/issues"
+  },
+  "homepage": "https://github.com/dyingSatyr/dashboard.gate-cms#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.4.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
